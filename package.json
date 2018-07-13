@@ -1,0 +1,16 @@
+{
+  "name": "test-js-qr-parser-console",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "crc-full": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark de Froze <mark.de.froze@mail.ru>",
+  "license": "ISC"
+}
